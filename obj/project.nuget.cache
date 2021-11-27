@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ijunraAUHLwL5jebh/rKa3PSdEQkh5i9iXkd3Aj/DV99PXQ1vFX3+l9BTQTk8mXvW0as620Jpfb+/EJ4BAGibA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gage\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\StoneTools\\StoneTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gage\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
