@@ -2,17 +2,20 @@ The stone tools mod is a mod that adds in a new tier of tools, stone tools. They
 
 Changelog:
 
-- Added in a new fishing rod, the stone fishing rod. The fishing rod's stats are between a wooden fishing rod and a reinforced fishing rod.
-- Changed the description
+- Added in a ebonstone variant for each tool, except the hamaxe and fishing rod.
+- Added in a crimstone variant for each tool, except the hamaxe and fishing rod.
+- Added in a pet rock block, it is just a fun prop for your homes/builds. It is crafted with one stone block and one fallen star.
+- Very minor tweaks
 
 Items added in this mod:
-- Stone Sword
-- Stone Pickaxe
-- Stone Axe
-- Stone Hammer
-- Stone Hamaxe (This will allow you to get a hamaxe very early in game)
-- Stone Bow
-- Stone Fishing Rod (NEW)
+- Stone Sword (With ebonstone and crimstone variants)
+- Stone Pickaxe (With ebonstone and crimstone variants)
+- Stone Axe (With ebonstone and crimstone variants)
+- Stone Hammer (With ebonstone and crimstone variants)
+- Stone Hamaxe
+- Stone Bow (With ebonstone and crimstone variants)
+- Stone Fishing Rod
+- Pet Rock
 
 This mod is rather simple, but I think it can be helpful. It allows you to get a fast upgrade from the starting copper tools, which can help speed up early pre-hardmode.
 This is also my first mod I have made, so I hope you enjoy it! <3
